@@ -1,0 +1,10 @@
+.user-bg{
+    background-image: url(./img/image\ 1.jpeg) !important;
+}
+.name{
+    color: white;
+}
+.table{
+    border: 2px solid white !important;
+    border-radius: 15px !important;
+}

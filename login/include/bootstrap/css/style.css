@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+    background-color:#180a5e;
+    color: #fff;
+    padding: 15px;
+    letter-spacing:5px;
+}
+form{
+    margin-top: 50px;
+    padding: 0px 100px;
+}
+
+h4{
+    text-align:center;
+    color:rgb(24, 20, 20)
+}
+h3{
+    text-align:center;
+    background-color:#ee0505;
+    color: #fff;
+    padding: 15px;
+    letter-spacing:5px;
+}
